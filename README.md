@@ -1,4 +1,4 @@
-# Vue 3 + Vite
+# Quote Whisper
 
 This is a vibecoded project created to test the capabilities of the Gemini CLI. The changes in this README file were made with the help of an AI agent.
 
